@@ -1,4 +1,4 @@
-//edited twice for azure
+//finally updated
 @if "%DEBUG%" == "" @echo off
 @rem ##########################################################################
 @rem
